@@ -35,9 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Page](https://github.com/cacesasa/meet_landing_page)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [Github Pages Live Site](https://cacesasa.github.io/meet_landing_page/)
 
 ### Built with
 
